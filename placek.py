@@ -14,4 +14,4 @@ for row in range(size):
             line.append(0)
     image["pixels"].append(line)
 
-    return image
+return image
